@@ -58,7 +58,7 @@ def download_physics_iq_data(fps: str):
 
     # Additionally download pre-computed non-30 FPS data if available
     if fps_int in (8, 16, 24):
-        download_fps.append(str(fps_int))
+        download_fps.append(fps)
         
     base_url = "gs://physics-iq-benchmark" 
     local_base_dir = "./physics-IQ-benchmark"  
