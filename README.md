@@ -37,24 +37,28 @@ If you test your model on Physics-IQ and would like your score/paper/model to be
 
 | **#** | **Model** | **input type** | **Physics-IQ score** | **date added (YYYY-MM-DD)** |
 | -- | --- | --- | --- | --- |
-| 1 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | multiframe (v2v) | **62.6 %** :1st_place_medal:  | 2025-10-28 |
-| 2 | [Magi-1](https://arxiv.org/abs/2505.13211) reported [here](https://arxiv.org/pdf/2505.13211)                                     | multiframe (v2v) | **56.0 %** :2nd_place_medal:  | 2025-04-21 |
-| 3 | [Sora2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                     | i2v              | **46.4 %** :3rd_place_medal:  | 2026-04-01 |
-| 4 | [Wan2.2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | 44.4 %  | 2026-04-01 |
-| 5 | [Sora2](https://openai.com/index/sora-2/) reported [here](https://arxiv.org/abs/2601.10553)                                      | i2v              | 42.3 %  | 2026-04-01 |
-| 6 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) reported [here](https://arxiv.org/abs/2601.10553)                                  | i2v              | 38.3 %  | 2026-04-01 |
-| 7 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | 36.9 %  | 2025-10-28 |
-| 8 | [Video-GPT](https://arxiv.org/abs/2505.12489) reported [here](https://arxiv.org/abs/2505.12489)                                  | multiframe (v2v) | 35.0 %  | 2025-05-22 |
-| 9 | [CogVideoX-5b](https://github.com/ved015/CogVideoX-5b-Physics_iq_benchmarking) reported [here](https://github.com/ved015/CogVideoX-5b-Physics_iq_benchmarking) | i2v              | 32.3 %  | 2026-01-06 |
-| 10 | [Magi-1](https://arxiv.org/abs/2505.13211) reported [here](https://arxiv.org/pdf/2505.13211)                                    | i2v              | 30.2 %  | 2025-04-21 |
-| 11 | [VideoPoet](https://arxiv.org/abs/2312.14125) reported [here](https://arxiv.org/abs/2501.09038)                                 | multiframe (v2v) | 29.5 %  | 2025-02-19 |
-| 12 | [Lumiere](https://arxiv.org/abs/2401.12945) reported [here](https://arxiv.org/abs/2501.09038)                                  | multiframe (v2v) | 23.0 %  | 2025-02-19 |
-| 13 | [Runway Gen 3](https://runwayml.com/research/introducing-gen-3-alpha) reported [here](https://arxiv.org/abs/2501.09038)         | i2v              | 22.8 %  | 2025-02-19 |
-| 14 | [VideoPoet](https://arxiv.org/abs/2312.14125) reported [here](https://arxiv.org/abs/2501.09038)                                 | i2v              | 20.3 %  | 2025-02-19 |
-| 15 | [Lumiere](https://arxiv.org/abs/2401.12945) reported [here](https://arxiv.org/abs/2501.09038)                                   | i2v              | 19.0 %  | 2025-02-19 |
-| 16 | [Stable Video Diffusion](https://arxiv.org/abs/2311.15127) reported [here](https://arxiv.org/abs/2501.09038)                    | i2v              | 14.8 %  | 2025-02-19 |
-| 17 | [Pika](https://pika.art/) reported [here](https://arxiv.org/abs/2501.09038)                                                     | i2v              | 13.0 %  | 2025-02-19 |
-| 18 | [Sora](https://openai.com/sora/) reported [here](https://arxiv.org/abs/2501.09038)                                              | i2v              | 10.0 %  | 2025-02-19 |
+| 1 | [Cosmos3-Super + WMReward (BoN)](https://placeholder) reported [here](https://placeholder)                                       | multiframe (v2v) | **63.4 %** :1st_place_medal:  | 2026-05-25 |
+| 2 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | multiframe (v2v) | **62.6 %** :2nd_place_medal:  | 2025-10-28 | 
+| 3 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | multiframe (v2v) | **57.7 %** :3rd_place_medal:  | 2026-05-25 |
+| 4 | [Magi-1](https://arxiv.org/abs/2505.13211) reported [here](https://arxiv.org/pdf/2505.13211)                                     | multiframe (v2v) | 56.0 %  | 2025-04-21 |
+| 5 | [Cosmos3-Super + WMReward (BoN)](https://placeholder) reported [here](https://placeholder)                                       | i2v              | **48.9 %** :1st_place_medal:  | 2026-05-25 |
+| 6 | [Sora2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                     | i2v              | **46.4 %** :2nd_place_medal:  | 2026-04-01 |
+| 7 | [Wan2.2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | **44.4 %** :3rd_place_medal:  | 2026-04-01 |
+| 8 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | multiframe (v2v) | 43.8 %  | 2026-05-25 |
+| 9 | [Sora2](https://openai.com/index/sora-2/) reported [here](https://arxiv.org/abs/2601.10553)                                      | i2v              | 42.3 %  | 2026-04-01 |
+| 10 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) reported [here](https://arxiv.org/abs/2601.10553)                                  | i2v              | 38.3 %  | 2026-04-01 |
+| 11 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | 36.9 %  | 2025-10-28 |
+| 12 | [Video-GPT](https://arxiv.org/abs/2505.12489) reported [here](https://arxiv.org/abs/2505.12489)                                  | multiframe (v2v) | 35.0 %  | 2025-05-22 |
+| 13 | [CogVideoX-5b](https://github.com/ved015/CogVideoX-5b-Physics_iq_benchmarking) reported [here](https://github.com/ved015/CogVideoX-5b-Physics_iq_benchmarking) | i2v              | 32.3 %  | 2026-01-06 |
+| 14 | [Magi-1](https://arxiv.org/abs/2505.13211) reported [here](https://arxiv.org/pdf/2505.13211)                                    | i2v              | 30.2 %  | 2025-04-21 |
+| 15 | [VideoPoet](https://arxiv.org/abs/2312.14125) reported [here](https://arxiv.org/abs/2501.09038)                                 | multiframe (v2v) | 29.5 %  | 2025-02-19 |
+| 16 | [Lumiere](https://arxiv.org/abs/2401.12945) reported [here](https://arxiv.org/abs/2501.09038)                                  | multiframe (v2v) | 23.0 %  | 2025-02-19 |
+| 17 | [Runway Gen 3](https://runwayml.com/research/introducing-gen-3-alpha) reported [here](https://arxiv.org/abs/2501.09038)         | i2v              | 22.8 %  | 2025-02-19 |
+| 18 | [VideoPoet](https://arxiv.org/abs/2312.14125) reported [here](https://arxiv.org/abs/2501.09038)                                 | i2v              | 20.3 %  | 2025-02-19 |
+| 19 | [Lumiere](https://arxiv.org/abs/2401.12945) reported [here](https://arxiv.org/abs/2501.09038)                                   | i2v              | 19.0 %  | 2025-02-19 |
+| 20 | [Stable Video Diffusion](https://arxiv.org/abs/2311.15127) reported [here](https://arxiv.org/abs/2501.09038)                    | i2v              | 14.8 %  | 2025-02-19 |
+| 21 | [Pika](https://pika.art/) reported [here](https://arxiv.org/abs/2501.09038)                                                     | i2v              | 13.0 %  | 2025-02-19 |
+| 22 | [Sora](https://openai.com/sora/) reported [here](https://arxiv.org/abs/2501.09038)                                              | i2v              | 10.0 %  | 2025-02-19 |
 
 *Note to early adopters of the benchmark: results from the paper were finalized on February 19, 2025; if you used the toolbox before please re-run since we changed and improved a few aspects. Likewise, if you downloaded the dataset before that date, it is recommended to re-download it, ensuring the ground truth video masks have a duration of five seconds.*
 
