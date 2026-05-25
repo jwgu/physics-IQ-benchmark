@@ -39,7 +39,7 @@ If you test your model on Physics-IQ and would like your score/paper/model to be
 | -- | --- | --- | --- | --- |
 | 1 | [Cosmos3-Super + WMReward (BoN)](https://placeholder) reported [here](https://placeholder)                                       | multiframe (v2v) | **63.4 %** :1st_place_medal:  | 2026-05-25 |
 | 2 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | multiframe (v2v) | **62.6 %** :2nd_place_medal:  | 2025-10-28 | 
-| 3 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | multiframe (v2v) | **57.7 %** :3rd_place_medal:  | 2026-05-25 |
+| 3 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | multiframe (v2v) | **59.7 %** :3rd_place_medal:  | 2026-05-25 |
 | 4 | [Magi-1](https://arxiv.org/abs/2505.13211) reported [here](https://arxiv.org/pdf/2505.13211)                                     | multiframe (v2v) | 56.0 %  | 2025-04-21 |
 | 5 | [Cosmos3-Super + WMReward (BoN)](https://placeholder) reported [here](https://placeholder)                                       | i2v              | **48.9 %** :1st_place_medal:  | 2026-05-25 |
 | 6 | [Sora2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                     | i2v              | **46.4 %** :2nd_place_medal:  | 2026-04-01 |
