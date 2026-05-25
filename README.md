@@ -44,7 +44,7 @@ If you test your model on Physics-IQ and would like your score/paper/model to be
 | 5 | [Cosmos3-Super + WMReward (BoN)](https://placeholder) reported [here](https://placeholder)                                       | i2v              | **48.9 %** :1st_place_medal:  | 2026-05-25 |
 | 6 | [Sora2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                     | i2v              | **46.4 %** :2nd_place_medal:  | 2026-04-01 |
 | 7 | [Wan2.2 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | **44.4 %** :3rd_place_medal:  | 2026-04-01 |
-| 8 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | multiframe (v2v) | 43.8 %  | 2026-05-25 |
+| 8 | [Cosmos3-Super](https://placeholder) reported [here](https://placeholder)                                                        | i2v              | 43.8 %  | 2026-05-25 |
 | 9 | [Sora2](https://openai.com/index/sora-2/) reported [here](https://arxiv.org/abs/2601.10553)                                      | i2v              | 42.3 %  | 2026-04-01 |
 | 10 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) reported [here](https://arxiv.org/abs/2601.10553)                                  | i2v              | 38.3 %  | 2026-04-01 |
 | 11 | [Magi-1 + WMReward (BoN)](https://arxiv.org/abs/2601.10553) reported [here](https://arxiv.org/abs/2601.10553)                    | i2v              | 36.9 %  | 2025-10-28 |
